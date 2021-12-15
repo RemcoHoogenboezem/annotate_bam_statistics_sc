@@ -1,2 +1,10 @@
 # annotate_bam_statistics_sc
-Add read statistics to your single cell variants
+
+annotate_bam_statistics_sc
+
+This software can be used to 
+
+
+Dependencies
+A recent C++ 11 compiler
+
